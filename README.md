@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vedant2000
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me E-mail: shivnekarvedant2000@gmail.com  contact no. +91 7226941596
 
 <!---
